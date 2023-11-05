@@ -2382,7 +2382,7 @@
     "@svgr/core" "^5.5.0"
     "@svgr/plugin-jsx" "^5.5.0"
     "@svgr/plugin-svgo" "^5.5.0"
-    loader-utils "^2.0.0"
+    loader-utils "^2.0.4"
 
 "@testing-library/dom@^7.28.1":
   version "7.31.2"
@@ -3030,7 +3030,7 @@ adjust-sourcemap-loader@3.0.0:
   resolved "https://registry.npmjs.org/adjust-sourcemap-loader/-/adjust-sourcemap-loader-3.0.0.tgz"
   integrity sha512-YBrGyT2/uVQ/c6Rr+t6ZJXniY03YtHGMJQYal368burRGYKqhx9qGTWqcBU5s1CwYY9E/ri63RYyG1IacMZtqw==
   dependencies:
-    loader-utils "^2.0.0"
+    loader-utils "^2.0.4"
     regex-parser "^2.2.11"
 
 agent-base@6:
@@ -3433,7 +3433,7 @@ babel-loader@8.1.0:
   integrity sha512-7q7nC1tYOrqvUrN3LQK4GwSk/TQorZSOlO9C+RZDZpODgyN4ZlCqE5q9cDsyWOliN+aU9B4JX01xK9eJXowJLw==
   dependencies:
     find-cache-dir "^2.1.0"
-    loader-utils "^1.4.0"
+    loader-utils "^2.0.4"
     mkdirp "^0.5.3"
     pify "^4.0.1"
     schema-utils "^2.6.5"
